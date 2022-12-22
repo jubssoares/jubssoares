@@ -1,4 +1,4 @@
-### Olá, eu sou a Juliana Soares! Aqui nesse espaço compatilho um pouco dos cófigos criados e as aventuras na programação!👋
+### Olá, eu sou a Juliana Soares! Aqui nesse espaço compatilho um pouco dos códigos criados e as aventuras na programação!👋
 
 - 🔭 Sou estudante de física e hoje trabalho como Analista de soluções customizadas I na Capgemini Brazil.
 - 🌱 Estudando Java, JavaScript, HTML, CSS, Python e Cobol.
