@@ -1,21 +1,22 @@
-<h2 align="center">Olá, eu sou a Juliana Soares!👋</h2>
+<h2>Olá, eu sou a Juliana Soares!👋</h2>
 
-Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na programação!
+<div>
+       <p>Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na programação!</p>
 
-- 🔭 Estudo física e hoje trabalho como Analista de soluções customizadas I na Capgemini Brazil.
-- 🌱 Estudando Java, JavaScript, HTML, CSS, Python e Cobol.
-- 😄 Pronouns: She/Her.
-       
-
+        - 🔭 Estudo física e hoje trabalho como Analista de soluções customizadas I na Capgemini Brazil.
+        - 🌱 Estudando Java, JavaScript, HTML, CSS, Python e Cobol.
+        - 😄 Pronouns: She/Her.
+</div>
+ 
 <h3 align="center">Estatísticas:</h3>
-
             
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/jubssoares">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jubssoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jubs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jubs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
