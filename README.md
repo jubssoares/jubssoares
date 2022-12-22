@@ -1,9 +1,15 @@
-### Olá, eu sou a Juliana Soares! Aqui nesse espaço compatilho um pouco dos códigos criados e as aventuras na programação!👋
+<h2 align="center">Olá, eu sou a Juliana Soares!👋</h2>
 
-- 🔭 Sou estudante de física e hoje trabalho como Analista de soluções customizadas I na Capgemini Brazil.
+Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na programação!
+
+- 🔭 Estudo física e hoje trabalho como Analista de soluções customizadas I na Capgemini Brazil.
 - 🌱 Estudando Java, JavaScript, HTML, CSS, Python e Cobol.
 - 😄 Pronouns: She/Her.
+       
 
+<h3 align="center">Estatísticas:</h3>
+
+            
 <div align="center">
   <a href="https://github.com/jubssoares">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jubssoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
