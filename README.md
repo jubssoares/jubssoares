@@ -1,23 +1,26 @@
-<h2>Olá, eu sou a Juliana Soares!👋</h2>
+# Olá, sou a Juliana Soares! 
 
+## Bem vindo ao meu perfil GitHub 👋
+
+Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na programação!
+
+- :computer: Analista de soluções customizadas I - Capgemini Brazil
+- :telescope: Estudante de Física - Universidade do Estado da Bahia (UNEB)
+
+### Estou aprendendo:
+<p>
+   <img alt="Jubs-Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+   <img alt="Jubs-Ts" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img alt="Jubs-Js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img alt="Jubs-Html" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img alt="Jubs-Css" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img alt="Jubs-Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img alt="Jubs-Arduino" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+   <img alt="Jubs-Cobol" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
+ </p>
+
+##
 <div>
-   <p>Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na programação!</p>
-
-   - 🔭 Estudo física e hoje trabalho como Analista de soluções customizadas I na Capgemini Brazil.
-   - 😄 Pronouns: She/Her.
-</div>
-
-<div style="display: inline_block"><br>
-  <h3>Estudando:</h3>
-  <img align="center" alt="Jubs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Jubs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jubs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jubs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jubs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jubs-Cobol" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
-</div>
-
-<div style="display: inline_block">
   <h3>Estatísticas:</h3> 
   <a href="https://github.com/jubssoares">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jubssoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,8 +28,11 @@
 </div>
 
 ##
-
-<div>
+### Contatos:
+<div> 
   <a href="https://www.linkedin.com/in/julianasilvasoares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eujulianasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+  ![Snake animation](https://github.com/jubssoares/jubssoares/blob/output/github-contribution-grid-snake.svg)
