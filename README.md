@@ -9,6 +9,8 @@ Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na p
 - :computer: Analista de soluções customizadas I - Capgemini Brazil
 - :telescope: Estudante de Física - Universidade do Estado da Bahia (UNEB)
 
+##
+
 <div align = "center">
    <h3>Estou aprendendo:</h3>
    <img alt="Jubs-Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
