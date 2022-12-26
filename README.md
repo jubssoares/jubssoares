@@ -24,8 +24,8 @@ Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na p
 <div align = "center">
   <h3>Estatísticas:</h3> 
   <a href="https://github.com/jubssoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubssoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jubssoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
 ##
