@@ -1,5 +1,7 @@
 <h1 align = "center"> Hello, world!</h1>
 
+<img align="right" alt="Jubs-pic" height="160" style="border-radius:50px;" src="https://www.imagemhost.com.br/images/2022/12/26/jubscoffee.png">
+
 ## Bem vindo ao meu perfil GitHub 👋
 
 Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na programação!
