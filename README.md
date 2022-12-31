@@ -8,7 +8,7 @@ Aqui nesse espaço compartilho um pouco dos códigos criados e as aventuras na p
 
 - :computer: Analista de soluções customizadas I - Capgemini Brazil
 - :telescope: Estudante de Física - Universidade do Estado da Bahia (UNEB)
-- :elf_woman: Ela/Dela
+- :woman_technologist: Ela/Dela
 
 ##
 
