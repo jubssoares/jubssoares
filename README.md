@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<h2>Hello, world! ツ</h2>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=AE82CF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&pause=1000&color=AE82CF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
 <img align="right" alt="Jubs-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" alt="IMG-20230124-202447">
 
