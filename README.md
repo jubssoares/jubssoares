@@ -45,6 +45,9 @@ Here in this space I share some of the codes created and the adventures in progr
    <img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
    <img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img alt="IBM-DB2" width="40" height="40" src="https://dbdb.io/media/logos/ibm-db2-vertical.svg" />
+   <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />        
+                  
 
 ##
    <h3>Loading...</h3>
@@ -54,6 +57,7 @@ Here in this space I share some of the codes created and the adventures in progr
    <img alt="maria-db" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
    <img alt="sql-lite" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
    <img alt="postgree-sql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+   <img alt="apache-spark" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
    <img alt="mongo-db" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
    <img alt="cosmos-db" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg" />   
   
@@ -68,7 +72,3 @@ Here in this space I share some of the codes created and the adventures in progr
    <img height = "180 px" src = "https://github-readme-stats.vercel.app/api?username=jubssoares&show_icons=true&theme=material-palenight">
    <img height = "180 px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&layout=compact&langs_count=7&theme=material-palenight">
 </div>
-      
-##
-
-
