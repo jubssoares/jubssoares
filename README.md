@@ -30,7 +30,7 @@ Here in this space I share some of the codes created and the adventures in progr
 
 💬 Feel free to contact me and find out more about my studies and work!
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eujulianasilvasoares@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eujulianasilvasoares@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianasilvasoares/)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jubssoares)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jubssoares)
