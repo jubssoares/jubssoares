@@ -34,6 +34,7 @@ Here in this space I share some of the codes created and the adventures in progr
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianasilvasoares/)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jubssoares)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jubssoares)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25560090/juliana-soares?tab=profile)
 [![Lattes Badge](https://img.shields.io/badge/-Lattes-lightblue?style=for-the-badge&logo=bookstack&logoColor=white&link=http://lattes.cnpq.br/7348547730589925)](http://lattes.cnpq.br/7348547730589925)
 
 
