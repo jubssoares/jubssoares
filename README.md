@@ -26,7 +26,7 @@ Here in this space I share some of the codes created and the adventures in progr
 
 ✨ I love studying and I'm addicted to learning new things;
 
-🔭 Fun fact: I'm a Physics student at the [State University of Bahia (UNEB)](https://portal.uneb.br/).
+🔭 Fun fact: I have a degree in Physics from the [State University of Bahia (UNEB)](https://portal.uneb.br/).
 
 💬 Feel free to contact me and find out more about my studies and work!
 
