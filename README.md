@@ -5,7 +5,7 @@
 
 Here in this space I share some of the codes created and the adventures in programming!
 
-👩🏻‍💻 I currently work as a solutions analyst I;
+👩🏻‍💻 I currently work as a Solutions Analyst I (DBA);
 
 🌱 I'm learning science and data analysis with Python;
 
