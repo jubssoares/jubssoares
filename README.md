@@ -133,30 +133,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&count_private=false" alt="jubssoares's Stats" height="150 px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&count_private=false" alt="jubssoares's Stats" height="160 px" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="jubssoares's Top Languages" height="150 px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="jubssoares's Top Languages" height="160 px" />
     </td>
     <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jubssoares&theme=material_palenight&utcOffset=-3" alt="Productive Time" height="150 px" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jubssoares&theme=material_palenight&utcOffset=-3" alt="Productive Time" height="160 px" />
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&count_private=false" alt="jubssoares's Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="jubssoares's Top Languages"  />
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jubssoares&theme=material_palenight&utcOffset=-3" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
