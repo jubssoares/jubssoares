@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<hr />
+<h2></h2>
 
 <div align = "center">
    <h3>Tools and Technologies</h3>
@@ -75,7 +75,7 @@
   </tbody>
 </table>
 
-<hr />
+<h2></h2>
 
 <div align = "center">
    <h3>In Progress... Loading...</h3>
@@ -127,7 +127,7 @@
           
  </div>
 
-<hr />
+<h2></h2>
 
 
 <table>
