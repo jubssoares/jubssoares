@@ -121,19 +121,32 @@ Here in this space I share some of the codes created and the adventures in progr
 
 ##
 
-<div align = "center">
-<br>
-   <a href="https://github.com/jubssoares">
-   <img height = "160 px" src = "https://github-readme-stats.vercel.app/api?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&count_private=false">
-   <img height = "160 px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
-   <img height = "160 px" src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jubssoares&theme=material_palenight&utcOffset=-3">
-   <img height = "160 px" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jubssoares&theme=material_palenight">
-   <img height = "160 px" src = "https://github-readme-streak-stats.herokuapp.com/?user=jubssoares&theme=material-palenight&hide_border=true">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&count_private=false" alt="jubssoares's Stats" height="200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="jubssoares's Top Languages" height="200" />
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jubssoares&theme=material_palenight&utcOffset=-3" alt="Productive Time" height="200" />
+    </td>
+  </tr>
+</table>
 
-##
+<table>
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jubssoares&theme=material_palenight" height="200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubssoares&theme=material-palenight&hide_border=true" height="200" />
+    </td>
+  </tr>
+</table>
 
-
+---
  | ![jubssoares's Stats](https://github-readme-stats.vercel.app/api?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&count_private=false) | ![jubssoares's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&layout=compact) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jubssoares&theme=material_palenight&utcOffset=-3) |
 | :-: | :-: | :-: |
 
