@@ -1,26 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&pause=1000&color=AE82CF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+world!)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&pause=1000&color=AE82CF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+world!" alt="Typing SVG" />
+    </a>
+</p>
 
 
+<br>
 
+<p>👩🏻‍💻 I currently work as a Solutions Analyst I, focusing on database administration (DBA), data modeling, and data analysis;</p>
+<p>🌱 I'm learning science and data analysis with Python;</p>
+<p>✨ I love studying and I'm addicted to learning new things;</p>
+<p>🔭 Fun fact: I have a degree in Physics from the <a href="https://portal.uneb.br/">State University of Bahia (UNEB)</a>.</p>
+<p>💬 Feel free to contact me and find out more about my studies and work!</p>
 
-Here in this space I share some of the codes created and the adventures in programming!
+<br>
 
-👩🏻‍💻 I currently work as a Solutions Analyst I, focusing on database administration (DBA), data modeling, and data analysis;
+<p>
+  <a href="mailto:eujulianasilvasoares@gmail.com">
+    <img src="https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect via Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/julianasilvasoares/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/jubssoares">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="http://lattes.cnpq.br/7348547730589925">
+    <img src="https://img.shields.io/badge/-Lattes-lightblue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Lattes" />
+  </a>
+</p>
 
-🌱 I'm learning science and data analysis with Python;
-
-✨ I love studying and I'm addicted to learning new things;
-
-🔭 Fun fact: I have a degree in Physics from the [State University of Bahia (UNEB)](https://portal.uneb.br/).
-
-💬 Feel free to contact me and find out more about my studies and work!
-
-[![Gmail Badge](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eujulianasilvasoares@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianasilvasoares/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jubssoares)
-[![Lattes Badge](https://img.shields.io/badge/-Lattes-lightblue?style=for-the-badge&logo=bookstack&logoColor=white&link=http://lattes.cnpq.br/7348547730589925)](http://lattes.cnpq.br/7348547730589925)
-
-##
+<hr />
 
 <div align = "center">
    <h3>Tools and Technologies</h3>
@@ -65,9 +75,8 @@ Here in this space I share some of the codes created and the adventures in progr
   </tbody>
 </table>
 
-                  
+<hr />
 
-##
 <div align = "center">
    <h3>In Progress... Loading...</h3>
    <table>
@@ -118,8 +127,8 @@ Here in this space I share some of the codes created and the adventures in progr
           
  </div>
 
+<hr />
 
-##
 
 <table>
   <tr>
