@@ -163,4 +163,6 @@
      <img src="https://github-readme-stats.vercel.app/api?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&count_private=false" alt="jubssoares's Stats" height="140 px" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubssoares&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="jubssoares's Top Languages" height="140 px" />
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jubssoares&theme=material_palenight&utcOffset=-3" alt="Productive Time" height="140 px" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jubssoares&theme=material_palenight" height="140 px" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubssoares&theme=material-palenight&hide_border=true" height="140 px" />
 </div>
