@@ -9,8 +9,8 @@
 
 <p>👩🏻‍💻 I currently work as a Solutions Analyst II, focusing on database administration (DBA), data modeling, and data analysis;</p>
 <p>✨ I love studying and I'm addicted to learning new things;</p>
-<p>🎓 I'm pursuing a lato sensu postgraduate MBA in Software Engineering at the <a href="https://mbauspesalq.com/">University of São Paulo (USP)</a>;</p>
-<p>🔭 Fun fact: I have a degree in Physics from the <a href="https://portal.uneb.br/">State University of Bahia (UNEB)</a>.</p>
+<p>🎓 I'm pursuing a lato sensu postgraduate MBA in Software Engineering at the <a href="https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=110100076&cod_edicao=23004&numseqofeedi=1">University of São Paulo (USP)</a>;</p>
+<p>🔭 Fun fact: I have a degree in Physics from the <a href="https://www.dcet1.uneb.br/licenciatura-em-fisica/">State University of Bahia (UNEB)</a>.</p>
 <p>💬 Feel free to contact me and find out more about my studies and work!</p>
 
 <br>
